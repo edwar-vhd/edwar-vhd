@@ -7,7 +7,7 @@
 <h2 align="center">🛠 Languages and Tools</h2>
 <br>
 <table align="center" style="border:0px solid white;">
-    <tr>
+    <tr style="border: 0px;">
         <td>
             <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
