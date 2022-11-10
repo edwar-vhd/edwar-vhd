@@ -1,5 +1,9 @@
 <style>
-    table, th, td {
+    table {
+        border: 1px solid #CCC;
+        border-collapse: collapse;
+    }
+    td {
         border: none;
     }
 </style>
