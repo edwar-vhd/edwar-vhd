@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **edwar-vhd/edwar-vhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>
+  <h1 align="center"><b>Hi there 👋, I'm Edwar</h1>
+</p>
