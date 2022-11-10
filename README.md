@@ -19,4 +19,4 @@ Here are some ideas to get you started:
   
 - 🌱 I’m currently learning
 
-🙋 I’m looking ... for job opportunities where I can learn and grow as a developer.
+- 🔭 I’m looking for job opportunities where I can learn and grow as a developer.
