@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 
 <h1 align="center"><b>Hi there 👋, I'm Edwar</h1>
-<h3 align="center">Frontend developer</h3>
 
+  
+- 🌱 I’m currently learning
 
+🙋 I’m looking ... for job opportunities where I can learn and grow as a developer.
