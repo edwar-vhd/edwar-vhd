@@ -1,3 +1,10 @@
+<style>
+    .markdown-body table td {
+        padding: 6px 13px;
+        border: 0px solid var(--color-border-default);
+    }
+</style>
+
 <h1 align="center"><b>Hi there 👋, I'm Edwar</h1>
 <p>I am an electronic engineer with an interest in creative things, this led me to learn different languages ​​and tools.</p>
 
@@ -6,7 +13,7 @@
 <br><br>
 <h2 align="center">🛠 Languages and Tools</h2>
 <br>
-<table align="center" style="border:none;">
+<table align="center">
     <tr>
         <td>
             <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
