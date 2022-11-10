@@ -1,13 +1,3 @@
-<style>
-    table {
-        border: 1px solid #CCC;
-        border-collapse: collapse;
-    }
-    td {
-        border: none;
-    }
-</style>
-
 <h1 align="center"><b>Hi there 👋, I'm Edwar</h1>
 <p>I am an electronic engineer with an interest in creative things, this led me to learn different languages ​​and tools.</p>
 
@@ -16,7 +6,7 @@
 <br><br>
 <h2 align="center">🛠 Languages and Tools</h2>
 <br>
-<table align="center">
+<table align="center" style="border:0px solid white;">
     <tr>
         <td>
             <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
