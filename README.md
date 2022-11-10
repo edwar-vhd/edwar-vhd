@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>
+
   <h1 align="center"><b>Hi there 👋, I'm Edwar</h1>
-</p>
+
+
