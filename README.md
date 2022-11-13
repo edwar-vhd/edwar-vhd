@@ -48,7 +48,7 @@
     </a>
 </p>
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">Connect with me</h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/edwar-pati%C3%B1o/" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwar patiño" height="30" width="30" />
