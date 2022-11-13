@@ -50,7 +50,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="hhttps://www.linkedin.com/in/edwar-pati%C3%B1o/" target="blank">
+    <a href="https://www.linkedin.com/in/edwar-pati%C3%B1o/" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwar patiño" height="30" width="30" />
     </a>
 </p>
